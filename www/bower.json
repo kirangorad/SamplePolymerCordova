@@ -1,0 +1,21 @@
+{
+  "name": "www",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.6.0",
+    "webcomponentsjs": "Polymer/webcomponentsjs#^0.7.22",
+    "core-elements": "Polymer/core-elements#^0.5.6",
+    "paper-elements": "Polymer/paper-elements#^0.5.6",
+    "iron-icons": "PolymerElements/iron-icons#^1.1.3"
+  }
+}
